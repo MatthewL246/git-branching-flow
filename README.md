@@ -6,3 +6,5 @@ I might also use `bugfix/...` branches. Version changes and other simple edits a
 This is the first commit.
 This is the second commit in the develop branch. And this is the third commit.
 This edit was made in the feature branch.
+
+Congratulations, we are now at version 1.0!
